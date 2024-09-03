@@ -2,78 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://layeyo.github.io/posts/theme-documentation-basics/</loc>
-    <lastmod>2020-03-06T21:29:01+08:00</lastmod>
-  </url><url>
-    <loc>https://layeyo.github.io/posts/theme-documentation-advanced/</loc>
-    <lastmod>2020-05-06T21:29:01+08:00</lastmod>
-  </url><url>
-    <loc>https://layeyo.github.io/posts/markdown-syntax/</loc>
-    <lastmod>2019-06-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://layeyo.github.io/posts/emoji-support/</loc>
-    <lastmod>2020-10-01T17:55:28+08:00</lastmod>
-  </url><url>
-    <loc>https://layeyo.github.io/tags/def/</loc>
-    <lastmod>2021-04-15T23:39:49+05:30</lastmod>
+    <loc>https://layeyo.github.io/categories/</loc>
   </url><url>
     <loc>https://layeyo.github.io/</loc>
-    <lastmod>2021-04-15T23:39:49+05:30</lastmod>
-  </url><url>
-    <loc>https://layeyo.github.io/posts/lorem-ipsum/</loc>
-    <lastmod>2021-04-15T23:39:49+05:30</lastmod>
-  </url><url>
-    <loc>https://layeyo.github.io/posts/</loc>
-    <lastmod>2021-04-15T23:39:49+05:30</lastmod>
   </url><url>
     <loc>https://layeyo.github.io/tags/</loc>
-    <lastmod>2021-04-15T23:39:49+05:30</lastmod>
-  </url><url>
-    <loc>https://layeyo.github.io/tags/xyz/</loc>
-    <lastmod>2021-04-15T23:39:49+05:30</lastmod>
-  </url><url>
-    <loc>https://layeyo.github.io/categories/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>https://layeyo.github.io/posts/2020-12-01-r-rmarkdown/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>https://layeyo.github.io/tags/plot/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>https://layeyo.github.io/categories/r/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>https://layeyo.github.io/tags/r-markdown/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>https://layeyo.github.io/tags/regression/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>https://layeyo.github.io/tags/emoji/</loc>
-    <lastmod>2020-10-01T17:55:28+08:00</lastmod>
-  </url><url>
-    <loc>https://layeyo.github.io/tags/configuration/</loc>
-    <lastmod>2020-05-06T21:29:01+08:00</lastmod>
-  </url><url>
-    <loc>https://layeyo.github.io/tags/installation/</loc>
-    <lastmod>2020-05-06T21:29:01+08:00</lastmod>
-  </url><url>
-    <loc>https://layeyo.github.io/tags/markdown/</loc>
-    <lastmod>2020-05-06T21:29:01+08:00</lastmod>
-  </url><url>
-    <loc>https://layeyo.github.io/tags/css/</loc>
-    <lastmod>2019-06-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://layeyo.github.io/tags/html/</loc>
-    <lastmod>2019-06-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://layeyo.github.io/projects/bludhaven/</loc>
-  </url><url>
-    <loc>https://layeyo.github.io/projects/hydra/</loc>
-  </url><url>
-    <loc>https://layeyo.github.io/projects/</loc>
-  </url><url>
-    <loc>https://layeyo.github.io/projects/tatooine/</loc>
   </url>
 </urlset>
