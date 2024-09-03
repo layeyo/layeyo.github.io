@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on layeyo</title>
+    <link>https://layeyo.github.io/tags/</link>
+    <description>Recent content in Tags on layeyo</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 15 Apr 2021 23:39:49 +0530</lastBuildDate>
+    <atom:link href="https://layeyo.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Def</title>
+      <link>https://layeyo.github.io/tags/def/</link>
+      <pubDate>Thu, 15 Apr 2021 23:39:49 +0530</pubDate>
+      <guid>https://layeyo.github.io/tags/def/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Xyz</title>
+      <link>https://layeyo.github.io/tags/xyz/</link>
+      <pubDate>Thu, 15 Apr 2021 23:39:49 +0530</pubDate>
+      <guid>https://layeyo.github.io/tags/xyz/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Plot</title>
+      <link>https://layeyo.github.io/tags/plot/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      <guid>https://layeyo.github.io/tags/plot/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>R Markdown</title>
+      <link>https://layeyo.github.io/tags/r-markdown/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      <guid>https://layeyo.github.io/tags/r-markdown/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Regression</title>
+      <link>https://layeyo.github.io/tags/regression/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      <guid>https://layeyo.github.io/tags/regression/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Emoji</title>
+      <link>https://layeyo.github.io/tags/emoji/</link>
+      <pubDate>Thu, 01 Oct 2020 17:55:28 +0800</pubDate>
+      <guid>https://layeyo.github.io/tags/emoji/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Configuration</title>
+      <link>https://layeyo.github.io/tags/configuration/</link>
+      <pubDate>Wed, 06 May 2020 21:29:01 +0800</pubDate>
+      <guid>https://layeyo.github.io/tags/configuration/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Installation</title>
+      <link>https://layeyo.github.io/tags/installation/</link>
+      <pubDate>Wed, 06 May 2020 21:29:01 +0800</pubDate>
+      <guid>https://layeyo.github.io/tags/installation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Markdown</title>
+      <link>https://layeyo.github.io/tags/markdown/</link>
+      <pubDate>Wed, 06 May 2020 21:29:01 +0800</pubDate>
+      <guid>https://layeyo.github.io/tags/markdown/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Css</title>
+      <link>https://layeyo.github.io/tags/css/</link>
+      <pubDate>Wed, 19 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://layeyo.github.io/tags/css/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Html</title>
+      <link>https://layeyo.github.io/tags/html/</link>
+      <pubDate>Wed, 19 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://layeyo.github.io/tags/html/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
