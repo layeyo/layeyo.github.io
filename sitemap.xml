@@ -2,11 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://layeyo.github.io/posts/online_photo_editing_tools/</loc>
+    <lastmod>2024-09-08T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://layeyo.github.io/posts/useful_links/</loc>
     <lastmod>2024-09-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://layeyo.github.io/posts/common-git-commands/</loc>
     <lastmod>2024-06-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://layeyo.github.io/</loc>
+    <lastmod>2024-09-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://layeyo.github.io/tags/photo-editing-tools/</loc>
+    <lastmod>2024-09-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://layeyo.github.io/posts/</loc>
+    <lastmod>2024-09-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://layeyo.github.io/tags/</loc>
+    <lastmod>2024-09-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://layeyo.github.io/tags/books/</loc>
     <lastmod>2024-09-03T00:00:00+00:00</lastmod>
@@ -14,19 +29,10 @@
     <loc>https://layeyo.github.io/tags/geoinformatics/</loc>
     <lastmod>2024-09-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://layeyo.github.io/</loc>
-    <lastmod>2024-09-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://layeyo.github.io/posts/</loc>
-    <lastmod>2024-09-03T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://layeyo.github.io/tags/r/</loc>
     <lastmod>2024-09-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://layeyo.github.io/tags/satistics/</loc>
-    <lastmod>2024-09-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://layeyo.github.io/tags/</loc>
     <lastmod>2024-09-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://layeyo.github.io/tags/coding/</loc>
